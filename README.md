@@ -56,6 +56,8 @@ This app doesn't need a server or an API key.
 - How to keep track of a number (the balance) as the game goes on
 - How to put a tinted photo behind the page with CSS
 
+VIEW APP HERE: https://slot-machine-brav.onrender.com/
+
 ## Author
 
 Maya Rose 🌹
